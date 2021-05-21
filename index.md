@@ -7,7 +7,7 @@ Hi, my name is Topi.
 
 🏠 Living in Helsinki, Finland
 
-👨🏻‍💻 Working at [Fraktal Oy](www.fraktal.fi) as a Cloud Security Developer
+👨🏻‍💻 Working at [Fraktal Oy](https://www.fraktal.fi) as a Cloud Security Developer
 
 💡 Professionally interested in software development, information security, IoT and tech in general
 
