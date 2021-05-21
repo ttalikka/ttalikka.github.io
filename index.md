@@ -1,17 +1,17 @@
 ## Who?
 
-:wave: Hi, my name is Topi.
+👋🏻Hi, my name is Topi.
 
 
 ## What?
 
-:house: Living in Helsinki, Finland
+🏠 Living in Helsinki, Finland
 
-:computer:  Working at [Fraktal Oy](https://www.fraktal.fi) as a Cloud Security Developer
+👨🏻‍💻 Working at [Fraktal Oy](https://www.fraktal.fi) as a Cloud Security Developer
 
-:bulb: Professionally interested in software development, information security, IoT and tech in general
+💡 Professionally interested in software development, information security, IoT and tech in general
 
-:seedling: Politics, privacy, environment, greentech, (e-)sports and electronics are among my non-work-related interests
+🌱 Politics, privacy, environment, greentech, (e-)sports and electronics are among my non-work-related interests
 
 
 
