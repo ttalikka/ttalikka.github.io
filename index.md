@@ -25,7 +25,7 @@ LinkedIn: [Topi Talikka](https://www.linkedin.com/in/ttalikka/)
 
 Twitter: [@leorain_](https://twitter.com/leorain_)
 
-Email: firstname.lastname at iki.fi
+Email: hello at topitalikka.fi
 
 Signal: Contact me elsewhere first.
 
