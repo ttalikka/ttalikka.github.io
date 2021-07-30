@@ -1,18 +1,17 @@
 ## Who?
 
-👋🏻 Hi, my name is Topi.
+👋🏻 Hi, my name is Topi. Nice to meet you!
 
 
 ## What?
 
 🏠 Living in Helsinki, Finland
 
-👨🏻‍💻 Working at [Fraktal Oy](https://www.fraktal.fi) as a Cloud Security Developer
+👨🏻‍💻 Working at [Fraktal Oy](https://www.fraktal.fi) as a Cloud Security Developer. Be in touch if you need anything cyber security related!
 
 💡 Professionally interested in software development, information security, IoT and tech in general
 
-🌱 Politics, privacy, environment, greentech, (e-)sports and electronics are among my non-work-related interests
-
+🌱 Politics, privacy, environment, greentech, (e-)sports, electronics and aviation are among my non-work-related interests
 
 
 ## Where?
