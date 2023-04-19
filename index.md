@@ -7,7 +7,7 @@
 
 🏠 Living in Helsinki, Finland
 
-👨🏻‍💻 Working at [Fraktal Oy](https://www.fraktal.fi) as a Cloud Security Developer. Be in touch if you need anything cyber security related!
+👨🏻‍💻 Working at the [National Cyber Security Centre](https://www.kyberturvallisuuskeskus.fi/en/) as a Information Security Specialist. Be in touch if you need anything cyber security related!
 
 💡 Professionally interested in software development, information security, IoT and tech in general
 
