@@ -9,7 +9,7 @@
 
 👨🏻‍💻 Working at the [National Cyber Security Centre](https://www.kyberturvallisuuskeskus.fi/en/) as an Information Security Specialist. Be in touch if you need anything cyber security related!
 
-💡 Professionally interested in software development, information security, IoT and tech in general
+💡 Professionally interested in cybersecurity, IoT, software development, and tech in general
 
 🌱 Politics, privacy, environment, greentech, (e-)sports, electronics and aviation are among my non-work-related interests
 
