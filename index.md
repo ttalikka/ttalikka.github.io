@@ -16,8 +16,6 @@
 
 ## Where?
 
-Telegram: [@tobiwan_kenobi](https://t.me/tobiwan_kenobi)
-
 Github: [@ttalikka](https://github.com/ttalikka)
 
 LinkedIn: [Topi Talikka](https://www.linkedin.com/in/ttalikka/)
