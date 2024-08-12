@@ -11,7 +11,7 @@
 
 💡 Professionally interested in cybersecurity, IoT, software development, and tech in general
 
-🌱 Politics, privacy, environment, greentech, (e-)sports, electronics and aviation are among my non-work-related interests
+🌱 Politics, privacy, environment, greentech, (e-)sports, electronics, aviation and photography are among my non-work-related interests
 
 
 ## Where?
@@ -29,4 +29,4 @@ Signal: Contact me elsewhere first.
 
 ## Why?
 
-Oh, I don't know. This page works as a calling card of sorts for now. I might document some of my projects here later on. (Like running Nextcloud under this same domain, hacking my garage door opener, fixing my motorcycle etc.) 
+Why not? =)
