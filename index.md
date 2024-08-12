@@ -16,9 +16,9 @@
 
 ## Where?
 
-Github: [@ttalikka](https://github.com/ttalikka)
-
 LinkedIn: [Topi Talikka](https://www.linkedin.com/in/ttalikka/)
+
+Github: [@ttalikka](https://github.com/ttalikka)
 
 Twitter: [@leorain_](https://twitter.com/leorain_)
 
@@ -30,3 +30,5 @@ Signal: Contact me elsewhere first.
 ## Why?
 
 Why not? =)
+
+IKAyVUEbMFOwo2EyVRuSGRkCIR9DFFOzo3VtMaWyMFOvMJIlVD==
